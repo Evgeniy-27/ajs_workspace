@@ -1,0 +1,27 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "eslint": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-27/workspace_1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Evgeniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniy-27/workspace_1/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-27/workspace_1#readme"
+}
